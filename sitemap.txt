@@ -1,2 +1,4 @@
+http://example.com/2022/11/10/jvm/
+http://example.com/about/index.html
 http://example.com/2022/11/10/hello-world/
 http://example.com/
